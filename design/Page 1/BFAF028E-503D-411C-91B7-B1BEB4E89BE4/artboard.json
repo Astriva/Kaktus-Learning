@@ -47,6 +47,7 @@
     {
       "class": "shapeGroup",
       "id": "CCE974AC-2E56-4CDD-9BE9-24F08566F891"
+<<<<<<< HEAD
     },
     {
       "class": "shapeGroup",
@@ -55,6 +56,8 @@
     {
       "class": "shapeGroup",
       "id": "5A7B5E1F-AE51-4266-A822-FF6ED276A1AA"
+=======
+>>>>>>> parent of 5dc11a9... Retangle
     }
   ],
   "layout": {
